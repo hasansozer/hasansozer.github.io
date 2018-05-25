@@ -2,34 +2,15 @@
 
 Hasan Sözer received his B.Sc. and M.Sc. degrees in computer engineering from Bilkent University, Turkey, in 2002 and 2004, respectively. He received his Ph.D. degree in 2009 from the University of Twente, The Netherlands. From 2002 until 2005, he worked as a software engineer at Aselsan Inc. in Turkey. From 2009 until 2011, he worked as a post-doctoral researcher at the University of Twente. In 2011, he joined the department of computer science at Ozyegin University, where he is now an associate professor.
 
-### Markdown
+### Contact Info
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**address:**	Dr. Hasan Sözer
+School of Engineering, Özyeğin University,
+Nişantepe Mah. Orman Sk. No: 34-36,
+Alemdağ – Çekmeköy 34794
+İstanbul, Turkey [view on map](https://www.google.com/maps?f=d&source=embed&saddr=%C3%96zye%C4%9Fin+University,+Sile+Otoban%C4%B1,+Alemda%C4%9F,+34000+Istanbul,+Turkey&daddr&hl=en&geocode=CdXSpT1CiokvFWAMcgIddne-ASmLyCSWINLKFDHx9xrpq5LN0w&sll=41.030161,29.259338&sspn=0.29991,0.676346&mra=mift&ie=UTF8&ll=41.030161,29.259338&spn=0.29991,0.676346&t=m)
+**e-mail:**	hasan.sozer@ozyegin.edu.tr
+**phone:**	+90 216 564 9383
+**fax:**	+90 216 564 9057
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hasansozer/hasansozer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
