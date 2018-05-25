@@ -8,7 +8,8 @@ Hasan Sözer received his B.Sc. and M.Sc. degrees in computer engineering from B
 School of Engineering, Özyeğin University,<br>
 Nişantepe Mah. Orman Sk. No: 34-36,<br>
 Alemdağ – Çekmeköy 34794<br>
-İstanbul, Turkey [view on map](https://www.google.com/maps?f=d&source=embed&saddr=%C3%96zye%C4%9Fin+University,+Sile+Otoban%C4%B1,+Alemda%C4%9F,+34000+Istanbul,+Turkey&daddr&hl=en&geocode=CdXSpT1CiokvFWAMcgIddne-ASmLyCSWINLKFDHx9xrpq5LN0w&sll=41.030161,29.259338&sspn=0.29991,0.676346&mra=mift&ie=UTF8&ll=41.030161,29.259338&spn=0.29991,0.676346&t=m)<br>
+İstanbul, Turkey <br>
+[view on map](https://www.google.com/maps?f=d&source=embed&saddr=%C3%96zye%C4%9Fin+University,+Sile+Otoban%C4%B1,+Alemda%C4%9F,+34000+Istanbul,+Turkey&daddr&hl=en&geocode=CdXSpT1CiokvFWAMcgIddne-ASmLyCSWINLKFDHx9xrpq5LN0w&sll=41.030161,29.259338&sspn=0.29991,0.676346&mra=mift&ie=UTF8&ll=41.030161,29.259338&spn=0.29991,0.676346&t=m)<br>
 **e-mail:**	hasan.sozer@ozyegin.edu.tr<br>
 **phone:**	+90 216 564 9383<br>
 **fax:**	+90 216 564 9057
