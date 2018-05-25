@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Hasan Sözer 
 description: "" 
 logo: hsozer.jpg
-show_downloads: "false"
+show_downloads: false
