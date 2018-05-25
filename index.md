@@ -1,4 +1,4 @@
-## Hasan Sözer
+### Short Bio
 
 Hasan Sözer received his B.Sc. and M.Sc. degrees in computer engineering from Bilkent University, Turkey, in 2002 and 2004, respectively. He received his Ph.D. degree in 2009 from the University of Twente, The Netherlands. From 2002 until 2005, he worked as a software engineer at Aselsan Inc. in Turkey. From 2009 until 2011, he worked as a post-doctoral researcher at the University of Twente. In 2011, he joined the department of computer science at Ozyegin University, where he is now an associate professor.
 
