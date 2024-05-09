@@ -15,8 +15,8 @@ I received my B.Sc. and M.Sc. degrees in computer engineering from Bilkent Unive
 
 ## Publications
 
-- dblp [https://dblp.uni-trier.de/pers/hy/s/S=ouml=zer:Hasan]
+- [dblp](https://dblp.uni-trier.de/pers/hy/s/S=ouml=zer:Hasan)
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}
