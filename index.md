@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I received my B.Sc. and M.Sc. degrees in computer engineering from Bilkent University, Turkey, in 2002 and 2004, respectively. I received my Ph.D. degree in 2009 from the University of Twente, The Netherlands. From 2002 until 2005, I worked as a software engineer at Aselsan Inc. in Turkey. From 2009 until 2011, I worked as a post-doctoral researcher at the University of Twente. In 2011, I joined the department of computer science at Ozyegin University, where I am currently working as a full professor.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Software Architecture Design
+- Software Testing and Analysis
+- Software Fault Tolerance
+- Distributed and Self-adaptive Systems
 
-## News
+## Publications
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- dblp [https://dblp.uni-trier.de/pers/hy/s/S=ouml=zer:Hasan]
 
 {% include_relative _includes/publications.md %}
 
