@@ -13,3 +13,6 @@ I received my B.Sc. and M.Sc. degrees in computer engineering from Bilkent Unive
 - Software Fault Tolerance
 - Distributed and Self-adaptive Systems
 
+## Publications
+
+![DBLP]({{ site.baseurl }}/assets/img/dblp.jpg)
