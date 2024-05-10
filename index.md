@@ -15,4 +15,4 @@ I received my B.Sc. and M.Sc. degrees in computer engineering from Bilkent Unive
 
 ## Publications
 
-![DBLP]({{ site.baseurl }}/assets/img/dblp.jpg)
+[![DBLP]({{ site.baseurl }}/assets/img/dblp.png)](https://dblp.uni-trier.de/pid/98/2704.html?view=by-year)
