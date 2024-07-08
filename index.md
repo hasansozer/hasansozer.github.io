@@ -9,5 +9,5 @@ I received my B.Sc. and M.Sc. degrees in computer engineering from Bilkent Unive
 ## Research 
 
 - **Interests**: Software Architecture Design, Software Testing and Analysis, Software Fault Tolerance, Distributed and Self-adaptive Systems
-- [Publications](https://dblp.uni-trier.de/pid/98/2704.html?view=by-year)
+- [Publications](https://dblp.org/pid/98/2704.html)
 - [Group](https://srl.ozyegin.edu.tr/)
